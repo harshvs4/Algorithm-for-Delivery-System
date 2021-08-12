@@ -1,25 +1,24 @@
 # Algorithm-for-Delivery-System
 
-DESIGN AND IMPLEMENTATION OF EFFICIENT ALGORITHM FOR DELIVERY SYSTEM
+## DESIGN AND IMPLEMENTATION OF EFFICIENT ALGORITHM FOR DELIVERY SYSTEM
 
 
-Transportation of goods is an important task in today online business. 
-Business Company need to send packages from one place to another on 
-a regular basis. Like Amazon, Flipkart, DHL and Fedex deliver 
-packages to their customers. The customers receive their packages 
+Transportation of goods is an important task in today's online business. 
+Companies like Amazon, Flipkart, DHL and Fedex need to send packages from one place to another on 
+a regular basis.The customers receive their packages 
 within one to two days. Amazon and other company’s goal is to make 
 sure their customer’s delivery requests succeed their expectations. In 
-order to accomplish this huge amount of money is spent by Amazon 
+order to accomplish this goal huge amount of money is spent by Amazon 
 Delivery service daily on fuel, equipment, maintenance of equipment 
 and wages. “Using the most efficient route to deliver packages can 
 drastically reduce the cost such as time and money”. 
 
 
 
-KEYWORDS :
+## KEYWORDS
 Traveling salesman problems, Cities and towns, Information technology, Linear programming, Greedy Algorithm, Dynamic Programming, Backtracking, Hamiltonian Cycle.
 
-
+## PROBLEM
 
 This problem can be divided into two sub problems. 
 1) There might be given list of several amazon delivery centres for cities in India, so in 
@@ -37,20 +36,29 @@ packages in best order. This can be termed as Traveling Salesman Problem.
 
 
 
-ENVIRONMENT VARIABLES:
+## ENVIRONMENT VARIABLES:
 
-∘ Operating System Version = Windows 8.0 
+* Operating System Version: Windows 8.0 
 
-∘ System RAM: 2.0 GB 
+* System RAM: 2.0 GB 
 
-∘ Processor Speed: 2.0 GHZ 
+* Processor Speed: 2.0 GHZ 
 
 
 
-SOFTWARE TOOLS USED:
+## SOFTWARE TOOLS USED:
 
-∘ Development Platform = Code Blocks
+* Development Platform: Code Blocks
 
-∘ Language = C++ 
+* Language: C++ 
+
+
+## PROGRAM SCREENSHOTS
+
+![](https://github.com/harshvs4/Algorithm-for-Delivery-System/blob/main/images/image1.png)
+
+![](https://github.com/harshvs4/Algorithm-for-Delivery-System/blob/main/images/image2.png)
+
+![](https://github.com/harshvs4/Algorithm-for-Delivery-System/blob/main/images/image3.png)
 
 
