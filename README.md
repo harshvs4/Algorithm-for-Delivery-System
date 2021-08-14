@@ -63,6 +63,6 @@ packages in best order. This can be termed as Traveling Salesman Problem.
 
 ## LINKS
 
-[Youtube Video](https://www.youtube.com/watch?v=Jo9J7QeiEe4)
+[YouTube Video](https://www.youtube.com/watch?v=Jo9J7QeiEe4)
 
 
